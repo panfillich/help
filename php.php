@@ -1,4 +1,6 @@
 <?php 
+//https://gist.github.com/codedokode/c4cbc4d7dc8e45ea074a
+//http://merle-amber.blogspot.com.by/2009/02/orm.html
 namespace MyProject\MadaZastra;
 ?>
 <head>
